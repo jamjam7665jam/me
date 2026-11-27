@@ -1,2 +1,2 @@
-# website-template
-website-template for websites in this org
+# about me page
+just a about me page

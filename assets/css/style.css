@@ -21,6 +21,13 @@ h1 {
     font-size: 40px;
 }
 
+p {
+    text-align: center;
+    font-family: 'Google Sans', sans-serif;
+    color: white;
+    font-size: 20px;
+}
+
 header{
     background-color: #c5a07c;
     border-radius: 50px;
